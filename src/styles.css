@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+.icon-nestjs {
+    width: 30px;
+    height: 20px;
+    margin: 10px 0px 0px 23px;
+    background-image: url('/assets/images/nest.svg');
+    background-size: contain;
+    transform: scale(2.5);
+    transform-origin: center;
+    background-repeat: no-repeat;
+    /* overflow: hidden;
+    background-position: center; */
+    display: inline-block;
+    
+  }
+
