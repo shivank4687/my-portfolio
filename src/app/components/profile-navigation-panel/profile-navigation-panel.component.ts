@@ -8,5 +8,7 @@ import { RouterLink, RouterLinkActive } from '@angular/router';
   styleUrl: './profile-navigation-panel.component.css'
 })
 export class ProfileNavigationPanelComponent {
-
+  profile={
+  description:"Hi, my name is Shiwank Sharma and I'm a Senior Software Engineer. Welcome to my personal website!"
+}
 }

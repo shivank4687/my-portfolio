@@ -9,6 +9,11 @@ import {downloadAsPDF} from '../../utils/file.utils'
 })
 export class ResumeComponent {
 resume={
+  name:"Shiwank Sharma",
+  title:"Senior Software Engineer",
+  phone_number:"8679140002",
+  email:"sharmashivank845@gmail.com",
+  address:"Chandigarh, India",
   description:"Software engineer highly proficient in solving business problems. Has extensive experience working with Node.js, Nest.js, Javascript, Typescript, Angular, React, Python, AWS, PostgreSQL, Mysql , Nosql , docker. Writes concise & maintainable code for complex problems. ",
   experience:[{name:"Ergode",role:'Software Development Engineer (Fullstack)',time_period:"2022 - 2024",
               contributions:[

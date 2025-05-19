@@ -17,7 +17,7 @@
 	<meta name="keywords" content="Javascript, Typescript, Backend, Database, Expert, AWS, Web Developer, Portfolio, Frontend, Fullstack" />
 	<meta name="author" content="Shiwank Sharma" />
 	<meta name="robots" content="index, follow" />
-	<link rel="shortcut icon" href="favicon.ico"> 
+	<!-- <link rel="shortcut icon" href="favicon.ico">  -->
 	
 	<!-- Google Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
@@ -32,7 +32,19 @@
 	<link id="theme-style" rel="stylesheet" href="assets/css/theme-1.css">
 </head>
 <body>
-  
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-RFP2WJBS3K"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	
+	  gtag('config', 'G-RFP2WJBS3K');
+	  gtag('event', 'button_click', {
+    event_category: 'User Interaction',
+    event_label: 'Download Resume Button',
+    value: 1
+  });
+	</script>
   <app-root></app-root>
 
 
@@ -61,6 +73,7 @@
 			<!-- Dark Mode -->
 			<script src="assets/plugins/js-cookie.min.js"></script>
 			<!-- <script src="assets/js/dark-mode.js"></script> -->
+			
 
 			<!-- Style Switcher (REMOVE ON YOUR PRODUCTION SITE) -->
 			<!-- <script src="assets/js/demo/style-switcher.js"></script>      -->
