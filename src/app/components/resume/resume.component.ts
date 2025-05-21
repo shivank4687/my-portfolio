@@ -10,7 +10,7 @@ import {downloadAsPDF} from '../../utils/file.utils'
 export class ResumeComponent {
 resume={
   name:"Shiwank Sharma",
-  title:"Senior Software Engineer",
+  title:"Full Stack Engineer",
   phone_number:"8679140002",
   email:"sharmashivank845@gmail.com",
   address:"Chandigarh, India",
@@ -29,10 +29,17 @@ resume={
               ]},
               {name:"Visions",role:'Software Development Engineer (Fullstack)',time_period:"2020 - 2022",
               contributions:[
-                "Worked on multiple client projects, developing full-stack applications using Node.js, Angular,AWS, and PostgreSQL.",
-                "Developed an employee management system with real-time features using Node.js, Angular, and MySQL.",
-                "Identified and resolved bugs and technical issues, ensuring high-quality deliverables.",
-                "Optimized application performance and optimizing algorithms."]}
+                "Developed web application using .NET and MySQL, including building admin panels for internal tools.",
+                "Created a Admin panel in Angular and Node.js, including RESTful APIs, GraphQL integration, and complex MySQL queries.",
+                "Contributed to client projects by completing tasks in Angular, React, Node.js, Laravel, PHP and Python.",
+                "Engaged in requirement analysis and R&D to explore technical solutions for diverse client needs.",
+                "Customized existing modules and implemented new features based on client-specific workflows and business logic.",
+                "Integrated Google Maps APIs into client platforms for location-based features.",
+                "Created a real-time organization management system using Angular, Node.js, WebSockets, and NGRX Store.",
+                "Developed the frontend for a SaaS-based project management platform using Angular.",
+                "Implemented advanced video features—streaming, webrtc, transcription, recording, and analytics using Angular and AWS services.",
+                "Engaged in requirement analysis and R&D to explore technical solutions.",
+                "Diagnosed and resolved production issues and implemented optimization techniques to improve system performance."]}
               ],
   education:[{title:"Bachelor's of Engineering in Computer Science",institute:"Chitkara University, Himachal Pradesh",time_period:"2016 - 2020"},
             {title:"Specialized in Software Development & Problem Solving",institute:"Scaler",time_period:"2024 - 2025"}
@@ -41,11 +48,11 @@ resume={
   languages:[['English','(Professional)'],['Hindi','(Native)']],
   interests:["Problem Solving","Automation/scripting","Trekking","Travelling"],
   projects:[
-    {name:"Extreme E-commerce (SaaS)",role:"Fullstack Developer",skills:"Angular, Node, Postgresql, Laravel,microservices architecture, AWS services(advertising, seller central) and other third-party integrations."},
-    {name:"Speakout",role:"Front-end Developer",skills:"Angular, web sockets, AWS transcribe service, aws s3, aws"},
-    {name:"Organization management application",role:"Fullstack Developer",skills:"Angular, node, SQL,ngrx, chatbox feature, web sockets, real-time dashboards."},
+    {name:"Extreme E-commerce (SaaS)",role:"Full Stack Engineer",skills:"Angular, Node, Postgresql, Laravel,microservices architecture, AWS services(advertising, seller central) and other third-party integrations."},
+    {name:"Speakout",role:"Front-end Developer",skills:"Angular, web sockets, AWS transcribe service, aws s3, aws kinesis video streaming, webrtc, video library integration etc."},
+    {name:"Organization management application",role:"Full Stack Engineer",skills:"Angular, node, SQL,ngrx, chatbox feature, web sockets, real-time dashboards."},
     {name:'Diabetes App',role:'Front-end Developer',skills:"Angular, Graphql with Apollo client, ngrx store and state management, default modules customizations."},
-    {name:"Snake Game using Data structure in C++",role:"Fullstack Developer",skills:"A console-based vintage Snake Game designed using C++ and data structures (array and linked list) with basic input and file handling features."}
+    {name:"Snake Game using Data structure in C++",role:"Full Stack Engineer",skills:"A console-based vintage Snake Game designed using C++ and data structures (array and linked list) with basic input and file handling features."}
     ]
 }
 

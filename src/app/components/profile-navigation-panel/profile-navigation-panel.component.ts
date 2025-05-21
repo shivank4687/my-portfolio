@@ -9,6 +9,6 @@ import { RouterLink, RouterLinkActive } from '@angular/router';
 })
 export class ProfileNavigationPanelComponent {
   profile={
-  description:"Hi, my name is Shiwank Sharma and I'm a Senior Software Engineer. Welcome to my personal website!"
+  description:"Hi, my name is Shiwank Sharma and I'm a Full Stack Engineer. Welcome to my personal website!"
 }
 }
