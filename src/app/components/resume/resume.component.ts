@@ -32,14 +32,15 @@ resume={
                 "Developed web application using .NET and MySQL, including building admin panels for internal tools.",
                 "Created a Admin panel in Angular and Node.js, including RESTful APIs, GraphQL integration, and complex MySQL queries.",
                 "Contributed to client projects by completing tasks in Angular, React, Node.js, Laravel, PHP and Python.",
-                "Engaged in requirement analysis and R&D to explore technical solutions for diverse client needs.",
+                "Engaged in requirement analysis and R&D to explore technical solutions.",
                 "Customized existing modules and implemented new features based on client-specific workflows and business logic.",
                 "Integrated Google Maps APIs into client platforms for location-based features.",
                 "Created a real-time organization management system using Angular, Node.js, WebSockets, and NGRX Store.",
                 "Developed the frontend for a SaaS-based project management platform using Angular.",
                 "Implemented advanced video features—streaming, webrtc, transcription, recording, and analytics using Angular and AWS services.",
                 "Engaged in requirement analysis and R&D to explore technical solutions.",
-                "Diagnosed and resolved production issues and implemented optimization techniques to improve system performance."]}
+                "Diagnosed and resolved production issues and implemented optimization techniques to improve system performance.",
+                "Participated in code reviews and handled deployment tasks for various projects."]}
               ],
   education:[{title:"Bachelor's of Engineering in Computer Science",institute:"Chitkara University, Himachal Pradesh",time_period:"2016 - 2020"},
             {title:"Specialized in Software Development & Problem Solving",institute:"Scaler",time_period:"2024 - 2025"}
