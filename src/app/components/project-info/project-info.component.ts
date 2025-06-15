@@ -11,13 +11,13 @@ export class ProjectInfoComponent implements OnInit {
   @Input() limited = false;
   projects = [
     {
-      name: 'Stock Analysis & Prediction',
+      name: 'Stock Analysis & Prediction (Independently Built)',
       role: 'Full Stack Developer',
       skills:
         'Python, Nestjs, Angular, TypeScript, Dynamic Charts, Postgresql, NumPy, Scikit-learn, TensorFlow, Keras, LSTM, Time Series Analysis, Technical Indicators, Alpha Vantage API, Yahoo Finance API, Data Preprocessing, Feature Engineering, Model Training, REST APIs, JSON, Seaborn, CLI Tools, Automation, Error Handling',
     },
     {
-      name: 'Content Creator',
+      name: 'Content Creator (Independently Built)',
       role: 'Full Stack Developer',
       skills:
         'Python, OpenCV, MoviePy, FFmpeg, Text-to-Speech,REST APIs, AI services (openai, gemini, murf, elevenlabs,fireworker), video/audio processing using tools like OpenCV, MoviePy, FFmpeg, Also enabled seamless content publishing by integrating Google and Meta APIs for direct upload and platform automation.',
